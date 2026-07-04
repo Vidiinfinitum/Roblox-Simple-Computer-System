@@ -1,3 +1,7 @@
+# Roblox Computer System
+
+A modular Windows XP-inspired computer system developed in LuaU for Roblox. The project focuses on code organization, scalability, and maintainability through a modular client-server architecture.
+
 # System Architecture
 
 This computer system is divided into three main components, each with a specific responsibility:
