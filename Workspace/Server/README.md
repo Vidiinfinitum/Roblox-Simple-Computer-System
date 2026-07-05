@@ -4,7 +4,7 @@ This folder contains the server-side scripts responsible for managing data and g
 
 ### Customization
 
-The **Customization** script is responsible for retrieving the player's customization data and sending it to the corresponding client-side scripts. This includes information such as wallpapers, user icons, and background music, allowing the client to properly initialize the computer's appearance.
+The **Customization** script is responsible for retrieving the player's customization data and sending it to the corresponding client-side scripts.
 
 ### Game
 
