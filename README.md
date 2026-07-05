@@ -12,7 +12,7 @@ The **InitShutdown** module is responsible for the computer's startup and shutdo
 
 ## Login
 
-The **Login** module manages the computer's authentication screen. It includes its own **LocalScript** and **ServerScript**, responsible for the login interface and validation flow. Like the previous component, it does not make use of **ModuleScripts**, as its functionality is relatively self-contained.
+The **Login** module manages the computer's authentication screen. It includes its own **LocalScript** and **ServerScript**, responsible for the login interface. Like the previous component, it does not make use of **ModuleScripts**, as its functionality is relatively self-contained.
 
 ## Workspace
 
