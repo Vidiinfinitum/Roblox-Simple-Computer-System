@@ -8,7 +8,7 @@ Responsible for managing the desktop clock, including updating and displaying th
 
 ### ConnectionsFunctions.lua
 
-Provides utility functions for connect and disconnect event connections, simplifying connection management.
+Provides utility functions for connect and disconnect event connections
 
 ### HandleStartButton
 
@@ -27,5 +27,3 @@ Like the Start button, this feature follows a modular parent-child architecture:
 
 * **GameController.lua** acts as the central controller.
 * Child modules implement the different screens and interactions of the game application.
-
-This hierarchical organization allows each feature to remain independent while keeping the main controllers responsible only for coordinating the flow between modules, making the system easier to maintain and extend.
