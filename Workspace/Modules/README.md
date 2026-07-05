@@ -1,6 +1,6 @@
 ## Modules
 
-The **Modules** directory contains the core logic of the computer system. By adopting a modular architecture, each component is responsible for a single feature, resulting in cleaner, more maintainable, and highly scalable code.
+The **Modules** directory contains the core logic of the computer system.
 
 ### Clock.lua
 
