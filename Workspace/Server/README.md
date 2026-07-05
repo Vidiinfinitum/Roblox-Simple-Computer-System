@@ -1,4 +1,4 @@
-## Server Scripts
+ ## Server Scripts
 
 This folder contains the server-side scripts responsible for managing data and gameplay logic.
 
@@ -13,5 +13,4 @@ The **Game** script handles the server-side logic related to the computer's game
 * Sending chapter and progression data to the client.
 * Validating chapter access based on the player's saved data.
 * Managing the teleportation system between places.
-* Controlling gameplay interactions associated with entering and leaving chapters.
 * Handling server-side validation to ensure secure communication between the client and the game.
