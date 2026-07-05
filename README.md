@@ -36,3 +36,9 @@ The system was designed to be easily expandable. New features can be added with 
 * New game chapters
 
 Most of these additions only require registering the new content in the corresponding **Data Module**, without modifying the core system logic.
+
+## Data
+
+The system uses two types of static data files: *CustomizationData.lua* and *ChaptersData.lua*.
+
+For player data, the *ProfileStore* module created by *loleris* is used.
