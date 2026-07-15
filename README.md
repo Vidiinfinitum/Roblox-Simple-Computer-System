@@ -42,3 +42,7 @@ Most of these additions only require registering the new content in the correspo
 The system uses two types of static data files: *CustomizationData.lua* and *ChaptersData.lua*.
 
 For player data, the *ProfileStore* module created by *loleris* is used.
+
+## Video
+
+Link: https://youtu.be/sqzusSzSVSg
